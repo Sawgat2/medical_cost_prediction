@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data & Models (avoid pushing big files)
+data/
+models/
+*.pkl
+*.h5
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
