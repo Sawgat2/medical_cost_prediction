@@ -22,20 +22,20 @@ Built as part of a Data Science portfolio project.
 ## Visual Insights
 ### Distribution of medical charges
 
-[charges](Visuals/Screenshot 2025-09-19 190708.png)
+![charges](Visuals/charges.png)
 > **Insight**: It shows a right-skewed distribution, where the majority of medical charges are clustered towards the lower end.
 
 ### Age vs Charges
-[Age vs Charges](Visuals/Screenshot 2025-09-19 191201.png)
+![Age vs Charges](Visuals/Age_vs_charges.png)
 > **Insight**: medical charges tend to increase with age.
 
 ### BMI vs Charges
-[Age vs Charges](Visuals/Screenshot 2025-09-19 191910.png)
+![BMI vs Charges](Visuals/BMI_vs_charges.png)
 > **Insight**: There is a broad spread of charges at nearly every BMI level, with most individuals incurring charges below 15,000.
 
 
-### BMI vs Charges
-[Age vs Charges](Visuals/Screenshot 2025-09-19 192117.png)
+### Smokers vs Charges
+![Smokers vs Charges](Visuals/smoker_vs_charges.png)
 > **Insight**:t is evident that smokers tend to incur significantly higher medical charges compared to non-smokers.
 
 
@@ -45,6 +45,7 @@ Built as part of a Data Science portfolio project.
 ```bash
 git clone https://github.com/Sawgat2/medical-cost-prediction.git
 cd medical-cost-prediction
+
 
 
 
