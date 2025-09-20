@@ -24,6 +24,7 @@ Built as part of a Data Science portfolio project.
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/sawgat2/medical-cost-prediction.git
+git clone https://github.com/Sawgat2/medical-cost-prediction.git
 cd medical-cost-prediction
+
 
