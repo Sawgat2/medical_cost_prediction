@@ -39,12 +39,25 @@ Built as part of a Data Science portfolio project.
 > **Insight**:t is evident that smokers tend to incur significantly higher medical charges compared to non-smokers.
 
 
+## Files Included
+
+- `notebooks/medical_cost_prediction.ipynb` – Jupyter notebook with full analysis
+- `data/insurance.csv` – Cleaned dataset used for analysis  
+- `Visuals/` – Folder containing generated charts and visuals
+- `models/medical_cost_model.pkl`- Best model selected from notebook 
+- `app/app.py`- Streamlit code for deployment
+
+  
 ## 🚀 How to Run
 
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/Sawgat2/medical-cost-prediction.git
 cd medical-cost-prediction
+
+
+
+
 
 
 
